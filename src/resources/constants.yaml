@@ -1,0 +1,6 @@
+host: test
+password: test
+user: test
+db_name: test
+min_pool: 1
+max_pool: 5
